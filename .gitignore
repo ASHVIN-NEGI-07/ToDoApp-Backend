@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class files
 *.class
 
@@ -32,4 +33,44 @@ hs_err_pid*
 
 # Ignore `.env` if you use one
 .env
+# Keep your full .gitignore here
+# Delete these markers if present:
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 
+=======
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+>>>>>>> 4496ee6 (Initial Commit)
