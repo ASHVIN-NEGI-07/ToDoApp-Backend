@@ -32,3 +32,4 @@ hs_err_pid*
 
 # Ignore `.env` if you use one
 .env
+
